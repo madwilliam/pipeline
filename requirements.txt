@@ -83,7 +83,7 @@ nbformat==5.0.7
 nest-asyncio==1.4.1
 networkx==2.5
 neuroglancer==2.11
-notebook==6.1.4
+notebook==6.1.5
 oauth2client==4.1.3
 opencv-python==4.2.0.34
 packaging==20.4
