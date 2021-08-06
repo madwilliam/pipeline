@@ -1,5 +1,5 @@
-1. create_alignment.py - Performs section to sectio alignment
-1. create_clean.py - Takes the maks and does a bit wise ann to clean image.
+1. create_alignment.py - Performs section to section alignment
+1. create_clean.py - Takes the masks and does a bit wise ann to clean image.
 2. 1. create_masks.py - Creates the masks which are used to clean the images.
 3. create_different_mesh.py - Creates a mesh segmentation layer for neuroglancer
 4. create_downsampling.py - 2nd phase in the neuroglancer process. Creates the neuroglancer downsampled precomuted files
